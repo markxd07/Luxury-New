@@ -8,7 +8,7 @@ local gamelist = {
     [1650291138] = "", -- Check Demon Fall
     [380704901] = "", -- Ro-Ghoul
     [2324662457] = "", -- AFS
-    [] = "", -- untitled boxing game
+    [4730278139] = "", -- untitled boxing game
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
