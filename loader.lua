@@ -15,6 +15,7 @@ local gamelist = {
 local checkgame = gamelist[game.gameId]
 
 if gamelist[game.gameId] then 
+    getgenv().AuthTime = tick()
     print (checkgame)
     loadstring(game:HttpGet(checkgame))()
 else 
