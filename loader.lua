@@ -9,7 +9,8 @@ local gamelist = {
     [380704901] = "https://raw.githubusercontent.com/markxd07/Luxury-New/main/Ro-Ghoul.lua", -- Ro-Ghoul
     [2324662457] = "https://raw.githubusercontent.com/markxd07/Luxury-New/main/AFS.lua", -- AFS
     [4730278139] = "https://raw.githubusercontent.com/markxd07/Luxury-New/main/UntitledBoxingGame.lua", -- untitled boxing game
-    [4777817887] = "https://raw.githubusercontent.com/markxd07/Luxury-New/main/Blade-Ball.lua" -- Blade Ball
+    [4777817887] = "https://raw.githubusercontent.com/markxd07/Luxury-New/main/Blade-Ball.lua", -- Blade Ball
+    [2644656496] = "https://raw.githubusercontent.com/markxd07/Luxury-New/main/Haze-Piece.lua"
 }
 
 local checkgame = gamelist[game.gameId]
