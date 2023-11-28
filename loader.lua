@@ -1,4 +1,4 @@
-warn('break darknest kak mak mak')
+print('break darknest kak mak mak')
 
 -- This file was generated using Luraph Obfuscator v13.7.1
 
