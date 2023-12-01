@@ -1,6 +1,6 @@
-local fuxk = loadstring(game:HttpGet('https://alphes.net/Files/Notifier.lua'))()
-
-fuxk:Notifier("Scripts By Hades ! ",2) wait(2.3)
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/notification_gui_library.lua", true))()
+local notif = Notification.new("success", "Luxury Hub", "Scripts By Hades <3")
+notif:deleteTimeout(3) -- Args(<number> DeleteWaitTime)
 
 -- This file was generated using Luraph Obfuscator v13.7.1
 
