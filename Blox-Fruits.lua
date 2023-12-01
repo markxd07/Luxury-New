@@ -1,6 +1,6 @@
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/notification_gui_library.lua", true))()
-local notif = Notification.new("success", "Luxury Hub", "Scripts By Hades <3")
-notif:deleteTimeout(3) -- Args(<number> DeleteWaitTime)
+local notif = Notification.new("success", "Luxury Hub", "Loaded Scripts By Hades")
+notif:deleteTimeout(5) -- Args(<number> DeleteWaitTime)
 
 -- This file was generated using Luraph Obfuscator v13.7.1
 
